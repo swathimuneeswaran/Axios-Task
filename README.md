@@ -1,8 +1,4 @@
-# React + Vite
+![Screenshot (53)](https://github.com/swathimuneeswaran/Axios-Task/assets/113039047/a6eb1a7f-553e-4fae-8c15-853a5e39c28c)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+THIS WEBSITE IS BUILT BY USING AXIOS CONCEPT.GETTING THE DATA BY USING AXIOS AND LISTING IN USER INTERFACE AND HAVE DONE CRUD OPERATIONS USING THAT DATA
